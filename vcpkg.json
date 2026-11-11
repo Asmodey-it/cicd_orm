@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "sqlite-orm",
+    "sqlite3"
+  ]
+}
